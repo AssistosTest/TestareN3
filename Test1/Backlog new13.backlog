@@ -1,0 +1,39 @@
+# Backlog
+
+## Tasks
+
+### Task TASK-001
+
+#### Description
+Butonul de Login nu funcționează
+
+#### Options
+##### Option 1
+Verifici handler-ul de click și te asiguri că funcția de autentificare este apelată.
+
+##### Option 2
+Modifici designul butonului și îi schimbi culoarea.
+
+##### Option 3
+Dezactivezi validarea câmpurilor de autentificare.
+
+#### Resolution
+2
+
+### Task TASK-002
+
+#### Description
+Butonul „Add to Cart” nu actualizează coșul de cumpărătu
+
+#### Options
+##### Option 1
+Verifici logica de adăugare în coș și actualizarea stării aplicației.
+
+##### Option 2
+Reîncarci automat pagina după fiecare click.
+
+##### Option 3
+Modifici textul butonului în „Added”, fără să schimbi logica aplicației.
+
+#### Resolution
+Verifici logica de adăugare în coș și actualizarea stării aplicației.
